@@ -6,6 +6,8 @@ title: "Andean Shell Trumpet"
 description: ""Strombus shells can be found in Peruvian waters, but that is the southernmost reach of their range—they are more common in the north. A great number of carved Strombus shells turned into trumpets (called pututu) have been found at Chavín. Far from the ocean, these shells symbolized water and fertility. Furthermore, the Strombus is frequently associated with masculinity, whereas the Spondylus is associated with femininity. The two together, therefore, signaled generative fertility and the power of the cult to foster agricultural prosperity."
 
 https://smarthistory.org/staff-god-chavin/ "
+
+https://smarthistory.org/staff-god-chavin/ "
 url: "https://ebhunter12.github.io"
 baseurl: "/shelltest"
 author: "Emmanuella Hunter"
@@ -158,5 +160,6 @@ development-features:
   # Use this when building a site with only custom pages (no stories or objects)
   # (Backward compatible: hide_collections also supported)
   skip_collections: false
+story_key: test
 story_key: test
 story_key: test
