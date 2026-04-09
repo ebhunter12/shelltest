@@ -3,7 +3,9 @@
 
 # Site Settings
 title: "Andean Shell Trumpet"
-description: "Telar (Spanish for 'loom') is a static site generator built on Jekyll that weaves together IIIF images, text, and layered contextual information into interactive digital narrative exhibitions. <a href='https://github.com/UCSB-AMPLab/telar'>Telar</a> is a project of <a href='https://neogranadina.org'>Neogranadina</a>, the <a href='https://ampl.clair.ucsb.edu/'>UCSB Archives, Memory, and Preservation Lab</a>, and the <a href='https://liberalarts.utexas.edu/history/'>UT Archives, Mapping, and Pedagogy Lab</a>."
+description: ""Strombus shells can be found in Peruvian waters, but that is the southernmost reach of their range—they are more common in the north. A great number of carved Strombus shells turned into trumpets (called pututu) have been found at Chavín. Far from the ocean, these shells symbolized water and fertility. Furthermore, the Strombus is frequently associated with masculinity, whereas the Spondylus is associated with femininity. The two together, therefore, signaled generative fertility and the power of the cult to foster agricultural prosperity."
+
+https://smarthistory.org/staff-god-chavin/ "
 url: "https://ebhunter12.github.io"
 baseurl: "/shelltest"
 author: "Emmanuella Hunter"
@@ -156,4 +158,5 @@ development-features:
   # Use this when building a site with only custom pages (no stories or objects)
   # (Backward compatible: hide_collections also supported)
   skip_collections: false
+story_key: test
 story_key: test

@@ -1,5 +1,7 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,carved-strombus-shell,0.5450813137755102,0.5271403617917306,2,,"What do the symbols on the shell represent, and what is the cultural/spiritual significance ",,,Learn more,strombus-shell-learn-more.md,,,,,
-2,carved-strombus-shell,0.21429444720191843,0.5945412198705273,2,,How was the shell modified/carved to maximize the noise?,,,,,,,,,
+2,carved-strombus-shell,0.5450813137755102,0.5271403617917306,2,,"What do the symbols on the shell represent, and what is the cultural/spiritual significance ",,,Learn more,strombus-shell-learn-more.md,,,,,
+4,carved-strombus-shell,0.21429444720191843,0.5945412198705273,2,,How was the shell modified/carved to maximize the noise?,,,,,,,,,
 3,carved-strombus-shell,0.6947184760514634,0.43127064808179244,2,,"Did each shell have the same carvings, or were multiple stories told?",,,,,,,,,
+1,carved-strombus-shell,0.5,0.5,1,,Who could use the shell and blow the trumpet? Was it an honor to be able to use it?,,,,,,,,,
+5,carved-strombus-shell,0.5,0.5,1,,Were there different calls that blowers had to learn?,,,,,,,,,
